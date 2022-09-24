@@ -13,4 +13,8 @@
 * QT基础
 * 我的一些奇怪体会和经验？
 
+学习C++建议购买一本C++ Primer Plus当字典用，不会的就去查一下（实在是太厚了）
+
+学习QT建议阅读[QT学习之路2](https://www.devbean.net/category/qt-study-road-2/)
+
 先写这些之后再说
